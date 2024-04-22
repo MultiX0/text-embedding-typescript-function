@@ -1,1 +1,2 @@
-# text-embedding-typescript-function
+# info
+**Supabase Embedding function**
